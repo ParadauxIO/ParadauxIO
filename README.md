@@ -16,3 +16,4 @@
   - Reddit: ParadauxIO
   - Keybase: paradaux
   - Espernet: paradaux
+  - Matrix: @paradaux:netsoc.ie
