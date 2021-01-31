@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm [Rían](https://paradaux.io) an 18 year old Java Developer from Ireland! 
 
-<!--
-**ParadauxIO/ParadauxIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on:
+  - [Conch](https://conch.rocks): HiberniaDiscord's Spirtiual Successor. A Discord -> Minecraft Bridge.
+  - [FriendlyBot](https://github.com/ParadauxIO/FriendlyBot): A discord bot for moderation written in JDA.
+  - [CSFriendlyCorner](https://csfriendlycorner.com): A discord community for TCD CS Majors. (Plus an epic docs site)
+🌱 I’m currently learning:
+  - [Spring](https://spring.io)
+  - [Dart](https://dart.dev)
+  
+📫 How to reach me: 
+  - E-Mail: rian@paradaux.io
+  - Discord: Rían#6500
+  - Slack: rian@paradaux.io
+  - Reddut: ParadauxIO
+  - Keybase: paradaux
+  - Espernet: paradaux
