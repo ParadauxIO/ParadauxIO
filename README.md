@@ -13,6 +13,6 @@
   - E-Mail: rian@paradaux.io
   - Discord: Rían#6500
   - Slack: rian@paradaux.io
-  - Reddut: ParadauxIO
+  - Reddit: ParadauxIO
   - Keybase: paradaux
   - Espernet: paradaux
