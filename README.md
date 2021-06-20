@@ -1,9 +1,11 @@
-### Hi there! I'm [Rían](https://paradaux.io) an 18 year old Java Developer from Ireland! 
+### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Java Developer from Ireland! 
 
 🔭 I’m currently working on:
-  - [Conch](https://conch.rocks): HiberniaDiscord's Spirtiual Successor. A Discord -> Minecraft Bridge.
+  - [Pixelverse](https://github.com/Poke-Core/Poke-Core): Pixelmon (Pokémon) in Vanilla Minecraft
   - [FriendlyBot](https://github.com/ParadauxIO/FriendlyBot): A discord bot for moderation written in JDA.
-  - [CSFriendlyCorner](https://csfriendlycorner.com): A community for CS Majors.
+  - [Conch](https://conch.rocks): HiberniaDiscord's Spirtiual Successor. A Discord -> Minecraft Bridge.
+  - [Wug Software](https://wug.software): A linguist's mobile application suite. 
+  - [CSFriendlyCorner](https://csfriendlycorner.com): A community for CS Majors in TCD.
 
 🌱 I’m currently learning:
   - [Spring](https://spring.io)
