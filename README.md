@@ -1,4 +1,4 @@
-### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Java Developer from Ireland! 
+### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Java Developer from Ireland!
 
 🔭 I’m currently working on:
   - [Pixelverse](https://github.com/Poke-Core/): Pixelmon (Pokémon) in Vanilla Minecraft
@@ -12,7 +12,8 @@
   - [Flutter](https://flutter.dev)
 
 📫 How to reach me: 
-  - Visit https://paradaux.io/contact.html for up-to-date contact details. 
+  - [Email](mailto:rian@errity.ie)
+  - Visit https://paradaux.io/contact.html for other up-to-date contact details / social media
 
 📈 My Github Stats so far this year: 
 
