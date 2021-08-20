@@ -18,3 +18,7 @@
 📈 My Github Stats so far this year: 
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParadauxIO&show_icons=true&theme=prussian)
+  
+📅 Year of Code:
+
+  I'm attempting a year of code, at least one substantial commit every day, for an entire year. Not all of these will be public but I'm hoping by the end of the year I will have   a number of projects completed which I have completely put off
