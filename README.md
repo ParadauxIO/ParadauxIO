@@ -1,7 +1,7 @@
 ### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Java Developer from Ireland!
 
 🔭 I’m currently working on:
-  - [Pixelverse](https://github.com/Poke-Core/): Pixelmon (Pokémon) in Vanilla Minecraft
+  - [WebAsmSim](): An online Arm8 Assembly Language Simulator for teaching purposes
   - [FriendlyBot](https://github.com/ParadauxIO/FriendlyBot): A modern discord bot for moderation written in JDA.
   - [airtable4j](https://github.com/ParadauxIO/airtable4j): A java wrapper for the Airtable API. 
   - [Wug Software](https://wug.software): A linguist's mobile application suite. PocketIPA coming at some point. 
