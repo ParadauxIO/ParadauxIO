@@ -7,9 +7,14 @@
   - [Wug Software](https://wug.software): A linguist's mobile application suite. PocketIPA coming at some point. 
   - [CSFriendlyCorner](https://csfriendlycorner.com): A community for CS Majors in TCD.
 
-🌱 I’m currently learning:
-  - [Vue.js](https://vuejs.org/)
-  - [Flutter](https://flutter.dev)
+🌱 I’m currently learning: 
+
+[//]: # (Previously learning: Vue.js, Flutter)
+  
+  - [C++](https://en.wikipedia.org/wiki/C%2B%2B) / [Qt](https://qt.io/) 
+  - [Go](https://golang.org)
+  - [Rust](https://www.rust-lang.org/)
+  - [Kubernetes](https://kubernetes.io/)
 
 📫 How to reach me: 
   - [Email](mailto:rian@errity.ie)
@@ -21,4 +26,4 @@
   
 📅 Year of Code:
 
-  I'm attempting a year of code, at least one substantial commit every day, for an entire year. Not all of these will be public but I'm hoping by the end of the year I will have   a number of projects completed which I have completely put off
+  - I'm attempting a year of code, at least one substantial commit every day, for an entire year. Not all of these will be public but I'm hoping by the end of the year I will have   a number of projects completed which I have completely put off. Let's see how far I can get! 
