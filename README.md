@@ -1,4 +1,4 @@
-### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Java Developer from Ireland!
+### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Software from Ireland!
 
 🔭 I’m currently working on:
 
@@ -9,16 +9,28 @@
 
 🌱 I’m currently learning: 
 
-[//]: # (Previously learning: Vue.js, Flutter)
-  
-  - [C++](https://en.wikipedia.org/wiki/C%2B%2B) / [Qt](https://qt.io/) 
+[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust)
   - [Go](https://golang.org)
-  - [Rust](https://www.rust-lang.org/)
-  - [Kubernetes](https://kubernetes.io/)
+  - [C++](https://en.wikipedia.org/wiki/C%2B%2B) / [Qt](https://qt.io/) 
 
 📫 How to reach me: 
   - [Email](mailto:rian@errity.ie)
-  - Visit https://paradaux.io/contact.html for other up-to-date contact details / social media
+  - [Blog](https://paradaux.io)
+  - [HN](https://news.ycombinator.com/user?id=paradaux)
+  - [LinkedIn](https://www.linkedin.com/in/r%C3%ADan-errity-117788199/)
+  - [Discord](https://discord.gg/z8pBCBy)
+
+🔬 Research Interests:
+  - Software Engineering
+  - Computer Science Pedagogy 
+  - Computational Linguistics
+  - Natural Language Processing
+
+🏢 My Stack:
+  - Java [Maven/Gradle, Spring, Jenkins CI, JUnit5...]
+  - Golang [net/http, sqlc, gomautrix, ...]
+  - Vue.js [Webpack, Nuxt.js, Firebase]
+  - Bash [Because I hate myself]
 
 📈 My Github Stats so far this year: 
 
