@@ -3,6 +3,7 @@
 🔭 I’m currently working on:
 
 [//]: # (Currently shelved projects: WebAsmSim, Airtable4j)
+  - [Discipline](github.com/oscailte-mc/discipline): A tightly-coupled Game Server Punishment and Administration System.
   - [FriendlyBot](https://github.com/ParadauxIO/FriendlyBot): A modern discord bot for moderation written in JDA.
   - [Wug Software](https://wug.software): A linguist's mobile application suite. PocketIPA coming at some point. 
   - [CSFriendlyCorner](https://csfriendlycorner.com): A community for CS Majors in TCD.
@@ -27,7 +28,7 @@
   - Natural Language Processing
 
 🏢 My Stack:
-  - Java [Maven/Gradle, Spring, Jenkins CI, JUnit5...]
+  - Java [Maven/Gradle, Spring, Guice, Jenkins CI, JUnit5, Play...]
   - Golang [net/http, sqlc, gomautrix, ...]
   - Vue.js [Webpack, Nuxt.js, Firebase]
   - Bash [Because I hate myself]
