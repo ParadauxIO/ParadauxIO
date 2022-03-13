@@ -19,6 +19,11 @@
   - [LinkedIn](https://www.linkedin.com/in/r%C3%ADan-errity-117788199/)
   - [Discord](https://discord.gg/z8pBCBy)
 
+✍ Things I've written:
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 🔬 Research Interests:
   - Software Engineering
   - Computer Science Pedagogy 
