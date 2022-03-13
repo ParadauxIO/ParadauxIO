@@ -21,7 +21,11 @@
 
 ✍ Things I've written:
 <!--START_SECTION:feed-->
-...
+* [48 hours until air - The SISTEM Story](https:&#x2F;&#x2F;paradaux.io&#x2F;2022&#x2F;03&#x2F;48-hours-until-air-the-sistem-story&#x2F;)
+* [A year in review, in preparation for the year of routine.](https:&#x2F;&#x2F;paradaux.io&#x2F;2022&#x2F;01&#x2F;a-year-in-review-in-preparation-for-the-year-of-routine.&#x2F;)
+* [A crypto society is an awful idea.](https:&#x2F;&#x2F;paradaux.io&#x2F;2021&#x2F;11&#x2F;a-crypto-society-is-an-awful-idea.&#x2F;)
+* [Exiting the Minecraft Development Scene](https:&#x2F;&#x2F;paradaux.io&#x2F;2021&#x2F;10&#x2F;exiting-the-minecraft-development-scene&#x2F;)
+* [So, you&#39;re a first year computer scientist.](https:&#x2F;&#x2F;paradaux.io&#x2F;2021&#x2F;09&#x2F;so-youre-a-first-year-computer-scientist.&#x2F;)
 <!--END_SECTION:feed-->
 
 🔬 Research Interests:
