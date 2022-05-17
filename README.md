@@ -1,16 +1,16 @@
-### Hi there! I'm [Rían](https://paradaux.io) a 19 year old Software Developer from Ireland!
+### Hi there! I'm [Rían](https://paradaux.io) a 20 year old Software Developer from Ireland!
 
 🔭 I’m currently working on:
 
-[//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot)
-  - [Discipline](https://github.com/oscailte-mc/discipline): A tightly-coupled Game Server Punishment and Administration System.
-  - [Wug Software](https://wug.software): A linguist's mobile application suite. PocketIPA coming at some point. 
-  - [CSFriendlyCorner](https://csfriendlycorner.com): A community for CS Majors in TCD.
+[//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot, pocketipa, csfriendlycorner)
+  - [Lón don Leon](https://abair.ie): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php)
+  - [Discipline](https://github.com/oscailte-mc/discipline): A tightly-coupled Game Server Punishment and Administration System.  
 
 🌱 I’m currently learning: 
 
-[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++)
-  - [Go](https://golang.org)
+[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go)
+  - [React](https://reactjs.org)
+  - [React Native](https://reactnative.dev)
 
 📫 How to reach me: 
   - [Email](mailto:rian@errity.ie)
