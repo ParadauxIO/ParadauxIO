@@ -9,6 +9,7 @@
 🌱 I’m currently learning: 
 
 [//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go)
+  - [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
   - [React](https://reactjs.org)
   - [React Native](https://reactnative.dev)
 
