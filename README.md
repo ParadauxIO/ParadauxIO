@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 
 [//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot, pocketipa, csfriendlycorner)
-  - [Lón don Leon](https://abair.ie): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php)
+  - [Lón don Leon](https://abair.ie): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php) / [@phonlab-tcd](https://github.com/phonlab-tcd)
   - [Discipline](https://github.com/oscailte-mc/discipline): A tightly-coupled Game Server Punishment and Administration System.  
 
 🌱 I’m currently learning: 
