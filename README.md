@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on:
 
-[//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot, pocketipa, csfriendlycorner)
+[//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot, pocketipa, csfriendlycorner, Discipline)
   - [Lón don Leon](https://abair.ie): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php) / [@phonlab-tcd](https://github.com/phonlab-tcd)
-  - [Discipline](https://github.com/oscailte-mc/discipline): A tightly-coupled Game Server Punishment and Administration System.  
+  - [AAC Viewer](https://github.com/phonlab-tcd/openaac_viewer): [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android and the Web built for the Irish language
 
 🌱 I’m currently learning: 
 
