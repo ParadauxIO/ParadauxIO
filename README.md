@@ -4,7 +4,7 @@
 
 [//]: # (Currently shelved projects: WebAsmSim, Airtable4j, FriendlyBot, pocketipa, csfriendlycorner, Discipline)
   - [Lón don Leon](https://abair.ie/applications): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php) / [@phonlab-tcd](https://github.com/phonlab-tcd)
-  - [Geabaire](https://abair.ie/geabaire): An [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android and the Web built for the Irish language
+  - [Geabaire](https://abair.ie/geabaire): An [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android, iOS and the Web built for the Irish language
 
 🌱 I’m currently learning: 
 
