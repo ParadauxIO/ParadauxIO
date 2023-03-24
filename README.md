@@ -2,8 +2,8 @@
 
 🪪 A few points about me:
 
-1. I'm a 3<sup>rd</sup> year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) in Trinity College, Dublin
-2. I'm currently working on a startup developing Productivity and Organisational tools called Clove !
+1. I'm a 3<sup>rd</sup> year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) student in Trinity College, Dublin
+2. I'm currently working on a startup developing Productivity and Organisational tools called [Clove](https://clove.ie) !
 3. I previously worked as a SWE Intern at Microsoft Development Centre Estonia 
 
 🔭 I’m currently working on:
