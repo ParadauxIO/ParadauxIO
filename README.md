@@ -16,7 +16,7 @@
     - [Ticketl.ie](https://ticketl.ie): A direct attack on monopolistic e-ticketing software, pay one simple price to run your event.
   - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
     - [Geabaire](https://abair.ie/geabaire): An [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android, iOS and the Web built for the Irish language. 
-    - [Lón don Leon](https://abair.ie/applications): A React Native app teaching apects of Irish phonology to pre-literate children. 
+    - [Lón don Leon](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology to pre-literate children. 
   - [SISTEM](https://sistemconf.com): The **S**tudent **I**nter-**S**ociety **T**echnology & **E**nterprise **M**eetup  — [@sistemconf](https://github.com/sistemconf)
     - [website](https://github.com/sistemconf/website): The SISTEM Website
 
@@ -45,11 +45,11 @@
   - Productivity and Productivity Systems
 
 🏢 My Stack:
-  - React: [React Native, Vite, Supabase, SCSS, Cloudflare Pages]
+  - React: [React Native, Vite, Supabase, SASS, Cloudflare Pages]
   - Java: [Maven/Gradle, Spring, Guice, Jenkins CI, JUnit5, Play...]
-  - Python: [Flask, Pytorch, Numpy, Scrappy, FastAPI]
+  - Python: [Flask, Pytorch, Numpy, Scrapy, FastAPI]
   - Rust: [Yew, Cargo]
-  - Ops: [pfSense, Proxmox, Docker, K8s/K3s, Portainer, Rancher, Supabase, QEMU, ...]
+  - Ops: [pfSense, Proxmox, Docker, K8s/K3s, Portainer, Rancher, Supabase, QEMU, LXC, ...]
   - C# [.NET, ASP.NET]
   - Vue.js [Webpack, Nuxt.js, Firebase]
   - Bash [Yes, I hate myself]
