@@ -1,4 +1,4 @@
-### Hi there! I'm [Rían](https://paradaux.io), a `${$currentYear-2002}`-year-old Software Developer from Ireland!
+### Hi there! I'm [Rían](https://paradaux.io), a 21-year-old Software Developer from Ireland!
 
 🪪 A few points about me:
 
