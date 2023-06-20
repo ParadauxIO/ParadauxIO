@@ -15,8 +15,8 @@
     - [Trackl.ie](https://trackl.ie): A personal inventory system, life tracker and grocery list organiser. 
     - [Ticketl.ie](https://ticketl.ie): A direct attack on monopolistic e-ticketing software, pay one simple price to run your event.
   - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
-    - [Geabaire](https://abair.ie/geabaire): An [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android, iOS and the Web built for the Irish language. 
-    - [Lón don Leon](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology to pre-literate children. 
+    - [Geabaire](https://abair.ie/applications): An [OBF](https://www.openboardformat.org/)-compliant [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) software for Android, iOS and the Web built for the Irish language. 
+    - [Mol an Oíge](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology to pre-literate children. 
   - [SISTEM](https://sistemconf.com): The **S**tudent **I**nter-**S**ociety **T**echnology & **E**nterprise **M**eetup  — [@sistemconf](https://github.com/sistemconf)
     - [website](https://github.com/sistemconf/website): The SISTEM Website
 
