@@ -2,8 +2,8 @@
 
 🪪 A few points about me:
 
-1. I'm a 3<sup>rd</sup> year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) student in Trinity College, Dublin
-2. I'm currently working on a startup developing Productivity and Organisational tools called [Clove](https://clove.ie) !
+1. I'm a final-year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) student in Trinity College, Dublin
+2. I'm currently working accessibility and speech technology for the Irish language with [Abair](https://abair.ie)
 3. I previously worked as a SWE Intern at Microsoft Development Centre Estonia 
 
 🔭 I’m currently working on:
@@ -24,8 +24,8 @@
 
 > We should always be learning something in this industry, and for that reason I try to keep this list up-to-date, You can find some of the previous entries in this section in the comments of this markdown file. 
 
-[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native)
-  - [Typescript](https://www.typescriptlang.org/)
+[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script)
+  - [Irish](https://en.wikipedia.org/wiki/Irish_language)
 
 📫 How to reach me: 
 
