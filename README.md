@@ -4,7 +4,7 @@
 
 1. I'm a final-year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) student in Trinity College, Dublin
 2. I'm currently working accessibility and speech technology for the Irish language with [Abair](https://abair.ie)
-3. I previously worked as a SWE Intern at Microsoft Development Centre Estonia 
+3. I previously worked as an SWE Intern at Microsoft Development Centre Estonia 
 
 🔭 I’m currently working on:
 
