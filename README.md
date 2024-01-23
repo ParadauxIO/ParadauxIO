@@ -12,7 +12,7 @@
 
   - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
     - [Geabaire](https://abair.ie/applications): An [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) system for Android, iOS and the Web built exclusively for the Irish language. 
-    - [Mol an Oíge](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology to pre-literate children. 
+    - [Mol an Óige](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology and orthography to pre-literate children. 
   - [SISTEM](https://sistemconf.com): The **S**tudent **I**nter-**S**ociety **T**echnology & **E**nterprise **M**eetup  — [@sistemconf](https://github.com/sistemconf)
     - [website](https://github.com/sistemconf/website): The SISTEM Website
 
