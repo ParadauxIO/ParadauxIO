@@ -2,9 +2,9 @@
 
 🪪 A few points about me:
 
-1. I'm a final-year [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) student in Trinity College, Dublin
-2. I'm currently working accessibility and speech technology for the Irish language with [Abair](https://abair.ie)
-3. I previously worked as an SWE Intern at Microsoft Development Centre Estonia 
+1. I work as a Software Engineer at JPMorganChase
+2. I'm have a first-class honours degree in  [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) from Trinity College, Dublin
+3. I consult on the development of speech technology for the Irish language for the [ABAIR](https://abair.ie) project. 
 
 🔭 I’m currently working on:
 
@@ -12,9 +12,6 @@
 
   - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
     - [Geabaire](https://abair.ie/applications): An [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) system for Android, iOS and the Web built exclusively for the Irish language. 
-    - [Mol an Óige](https://abair.ie/applications): A React Native app teaching aspects of Irish phonology and orthography to pre-literate children. 
-  - [SISTEM](https://sistemconf.com): The **S**tudent **I**nter-**S**ociety **T**echnology & **E**nterprise **M**eetup  — [@sistemconf](https://github.com/sistemconf)
-    - [website](https://github.com/sistemconf/website): The SISTEM Website
 
 🌱 I’m currently learning: 
 
