@@ -2,14 +2,18 @@
 
 🪪 A few points about me:
 
-1. I work as a Software Engineer at JPMorganChase
-2. I'm have a first-class honours degree in  [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) from Trinity College, Dublin
-3. I consult on the development of speech technology for the Irish language for the [ABAIR](https://abair.ie) project. 
+1. I'm currently a Software Engineer at JPMorganChase in Securities Services Technology where I work with Java, React & AWS.
+2. I have a degree in [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) from Trinity College, Dublin
+3. I consult on the development of speech technology for the Irish language for the [ABAIR](https://abair.ie) project.
+4. I'm constantly hacking away on side-projects, and open-source things in the background :) If you have ideas, reach out! 
 
 🔭 I’m currently working on:
 
 > This is a mixture of **personal** and **professional** projects. I always like to keep busy — what I'm working on is always changing.
-
+ 
+  - AWS Certified Developer: Associate Certification
+  - Hashicorp Certified Associate Certification
+  - Godot Game Engine
   - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
     - [Geabaire](https://abair.ie/applications): An [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) system for Android, iOS and the Web built exclusively for the Irish language. 
 
@@ -17,8 +21,9 @@
 
 > We should always be learning something in this industry, and for that reason I try to keep this list up-to-date, You can find some of the previous entries in this section in the comments of this markdown file. 
 
-[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script)
-  - [Irish](https://en.wikipedia.org/wiki/Irish_language)
+[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script, Irish)
+  - AWS
+  - Terraform
 
 📫 How to reach me: 
 
@@ -30,22 +35,19 @@
   - [HN](https://news.ycombinator.com/user?id=paradaux)
   - [Discord](https://discord.gg/z8pBCBy)
 
-🔬 Research Interests:
+🔬 Interests:
   - Software Engineering
+  - Speech Technology
   - Computer Science Pedagogy 
+  - Productivity and Productivity Systems
   - Computational Linguistics
   - Natural Language Processing
-  - Productivity and Productivity Systems
 
 🏢 My Stack:
-  - React: [React Native, Vite, Supabase, SASS, Cloudflare Pages]
   - Java: [Maven/Gradle, Spring, Guice, Jenkins CI, JUnit5, Play...]
-  - Python: [Flask, Pytorch, Numpy, Scrapy, FastAPI]
-  - Rust: [Yew, Cargo]
-  - Ops: [pfSense, Proxmox, Docker, K8s/K3s, Portainer, Rancher, Supabase, QEMU, LXC, ...]
+  - React (& Native): [Vite, Supabase, SASS, Cloudflare Pages]
+  - Ops: [AWS, Terraform, Ansible, K8s, Docker]
   - C# [.NET, ASP.NET]
-  - Vue.js [Webpack, Nuxt.js, Firebase]
-  - Bash [Yes, I hate myself]
 
 📈 My Github Stats so far this year: 
 
