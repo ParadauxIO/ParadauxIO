@@ -10,20 +10,15 @@
 🔭 I’m currently working on:
 
 > This is a mixture of **personal** and **professional** projects. I always like to keep busy — what I'm working on is always changing.
- 
-  - AWS Certified Developer: Associate Certification
-  - Hashicorp Certified Associate Certification
-  - Godot Game Engine
-  - [Abair Project](https://abair.ie): A research laboratory in Trinity College, Dublin of which I'm a member — [@phonlab-tcd](https://github.com/phonlab-tcd/)
-    - [Geabaire](https://abair.ie/applications): An [AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication) system for Android, iOS and the Web built exclusively for the Irish language. 
+  - Hashicorp Terraform Certified: Associate Certification
+  - Certified Kubernetes Application Developer (CKAD)
 
 🌱 I’m currently learning: 
 
 > We should always be learning something in this industry, and for that reason I try to keep this list up-to-date, You can find some of the previous entries in this section in the comments of this markdown file. 
 
-[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script, Irish)
-  - AWS
-  - Terraform
+[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script, Irish, AWS, Terraform)
+- Kubernetes
 
 📫 How to reach me: 
 
@@ -33,7 +28,6 @@
   - [Personal Website](https://paradaux.io)
   - [LinkedIn](https://www.linkedin.com/in/r%C3%ADan-errity-117788199/)
   - [HN](https://news.ycombinator.com/user?id=paradaux)
-  - [Discord](https://discord.gg/z8pBCBy)
 
 🔬 Interests:
   - Software Engineering
@@ -46,7 +40,7 @@
 🏢 My Stack:
   - Java: [Maven/Gradle, Spring, Guice, Jenkins CI, JUnit5, Play...]
   - React (& Native): [Vite, Supabase, SASS, Cloudflare Pages]
-  - Ops: [AWS, Terraform, Ansible, K8s, Docker]
+  - Ops: [AWS, Terraform, K8s, Docker]
   - C# [.NET, ASP.NET]
 
 📈 My Github Stats so far this year: 
