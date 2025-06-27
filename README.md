@@ -1,16 +1,14 @@
-### Hi there! I'm [Rían](https://paradaux.io), a 22-year-old Software Developer from Ireland!
+### Hi there! I'm [Rían](https://paradaux.io), a 23-year-old Software Developer from Ireland!
 
 🪪 A few points about me:
 
-1. I'm currently a Software Engineer at JPMorganChase in Securities Services Technology where I work with Java, React & AWS.
+1. I'm currently a Software Engineer in Security Services Technology, implementing AI Usecases across Fund Services 
 2. I have a degree in [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) from Trinity College, Dublin
-3. I consult on the development of speech technology for the Irish language for the [ABAIR](https://abair.ie) project.
-4. I'm constantly hacking away on side-projects, and open-source things in the background :) If you have ideas, reach out! 
+3. I'm AWS and Terraform certified at Associate level. 
 
 🔭 I’m currently working on:
 
 > This is a mixture of **personal** and **professional** projects. I always like to keep busy — what I'm working on is always changing.
-  - Hashicorp Terraform Certified: Associate Certification
   - Certified Kubernetes Application Developer (CKAD)
 
 🌱 I’m currently learning: 
