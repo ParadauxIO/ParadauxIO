@@ -1,47 +1,25 @@
-### Hi there! I'm [Rían](https://paradaux.io), a 23-year-old Software Developer from Ireland!
+# 🚨 YOU HAVE BEEN PWNED, GINGER! 🚨
 
-🪪 A few points about me:
+> 🔥 “You’re red-headed, but your firewall is whiter than your hair in sunlight!” 🔥
 
-1. I'm currently a Software Engineer in Security Services Technology, implementing AI Usecases across Fund Services 
-2. I have a degree in [Computer Science, Linguistics and French](https://www.tcd.ie/courses/undergraduate/courses/computer-science-linguistics-and-a-language/) from Trinity College, Dublin
-3. I'm AWS and Terraform certified at Associate level. 
+**Congratulations**, you’ve just been owned so hard your freckles are quivering in fear. 🧡
 
-🔭 I’m currently working on:
+- Your network security is about as robust as your complexion under a tanning lamp.  
+- You thought “SQL injection” was the latest haircare regimen.  
+- Even Rudolph’s nose is brighter than the logs you left in your error console.  
 
-> This is a mixture of **personal** and **professional** projects. I always like to keep busy — what I'm working on is always changing.
-  - Certified Kubernetes Application Developer (CKAD)
+---
 
-🌱 I’m currently learning: 
+> “Next time, maybe patch your system instead of your freckles!” 😂
 
-> We should always be learning something in this industry, and for that reason I try to keep this list up-to-date, You can find some of the previous entries in this section in the comments of this markdown file. 
+> **Pwned Level:**  
+> - Grandma’s ginger cookies have more encryption than your whole setup.  
 
-[//]: # (Previously learning: Vue.js, Flutter, Kubernetes, Rust, C++, go, C#, React, React Native, Type Script, Irish, AWS, Terraform)
-- Kubernetes
+> **Recommended Fix:**  
+> 1. Apply sunscreen.  
+> 2. Actually update your software.  
+> 3. Cry into a marshmallow—at least it’s softer than your ginger jokes.  
 
-📫 How to reach me: 
+---
 
-> I'm fairly accessible online, but here's a few different ways to reach me, I'm happy to hear from anyone and everyone !
-
-  - [Email](mailto:rian@paradaux.io)
-  - [Personal Website](https://paradaux.io)
-  - [LinkedIn](https://www.linkedin.com/in/r%C3%ADan-errity-117788199/)
-  - [HN](https://news.ycombinator.com/user?id=paradaux)
-
-🔬 Interests:
-  - Software Engineering
-  - Speech Technology
-  - Computer Science Pedagogy 
-  - Productivity and Productivity Systems
-  - Computational Linguistics
-  - Natural Language Processing
-
-🏢 My Stack:
-  - Java: [Maven/Gradle, Spring, Guice, Jenkins CI, JUnit5, Play...]
-  - React (& Native): [Vite, Supabase, SASS, Cloudflare Pages]
-  - Ops: [AWS, Terraform, K8s, Docker]
-  - C# [.NET, ASP.NET]
-
-📈 My Github Stats so far this year: 
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParadauxIO&show_icons=true&theme=prussian)
-  
+> 🌶️ _“Gingers don’t burn—they’re just flame-retardant on the inside… unlike your code!”_ 🌶️
