@@ -19,4 +19,4 @@
 </tr>
 </table>
 
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+[Updated Daily by `githubstats`.](https://github.com/ParadauxIO/githubstats)
